@@ -1,2 +1,2 @@
 # adonisjs
-build restfull fire, public transport trip
+build restfull api, public transport trip
